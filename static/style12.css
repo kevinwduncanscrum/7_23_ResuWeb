@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+
+}
+
+h2 {
+    color: firebrick;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+}
+
+h2 {
+    -webkit-column-span: all; /* Chrome, Safari, Opera */
+    column-span: all;
+}
+
+body{
+    margin: 100px;
+}
